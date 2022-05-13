@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+env
+postgres
+.ipynb_checkpoints
+.csv
+
+.env
+.devcontainer
+
+!**/.gitkeep%  
